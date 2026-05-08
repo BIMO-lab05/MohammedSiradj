@@ -1,7 +1,8 @@
+<h2 align="left">Hi 👋! I'm Siradj — a programmer from Algeria.</h2>
 
-
-
-<h2 align="left">Hi 👋! My name is siradj and I'm a programmer, from Algeria</h2>
+<p align="left">
+I work mostly in <b>Python</b>, <b>Java</b>, <b>C</b>, and <b>MATLAB</b> — building tools, scripts, and projects that solve real problems.
+</p>
 
 ###
 
@@ -12,35 +13,34 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5sbGMzc3A1YnpqcWJ1Ynpidzhqbm83M21qZnV1YzdkczBibHZqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" />
-
-###
+<h3 align="left">Tech Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
 </div>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sti_ngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sti_ngo" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram_us2r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_us2r" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect</h3>
 
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/sti_ngo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/instagram_us2r" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedSiradj/MohammedSiradj/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedSiradj/MohammedSiradj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MohammedSiradj/MohammedSiradj/output/github-snake.svg" />
 </picture>
 
 ###
